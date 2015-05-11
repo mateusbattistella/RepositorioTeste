@@ -10,6 +10,8 @@ and open the template in the editor.
         <title>
             
             TESTE
+            
+            TESTE PULL
         </title>
     </head>
     <body>
