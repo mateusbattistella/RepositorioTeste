@@ -10,7 +10,7 @@ and open the template in the editor.
         <title>
             
             TESTE
-            teste
+            
             TESTE Now!
             
         </title>
