@@ -11,7 +11,8 @@ and open the template in the editor.
             
             TESTE
             
-            TESTE PULL
+            TESTE Now!
+            
         </title>
     </head>
     <body>
